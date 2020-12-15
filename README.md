@@ -1,4 +1,9 @@
-### Hi there 👋
+### Well hello there! 👋
+
+- 🔭 I’m currently working on Teradata
+- 🌱 I’m currently learning React, and RoR
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/redmund-nacario/)
+- 🚀 Active Repo:[demos](https://redmundnacario.github.io/batch5-activities/)
 
 <!--
 **redmundnacario/redmundnacario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
