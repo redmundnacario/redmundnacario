@@ -6,8 +6,8 @@
 - 🚀  Active Repo:[demos](https://redmundnacario.github.io/batch5-activities/)
 
 <p align="center">
-<img width="60%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=redmundnacario&show_icons=true&theme=vue-dark&count_private=true&line_height=30" />
-<img width="38%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redmundnacario&hide=tex,php,python,shell,jupyter%20notebook&theme=vue-dark&langs_count=10&layout=compact" />
+<img width="55%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=redmundnacario&show_icons=true&theme=vue-dark&count_private=true" />
+<img width="40%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redmundnacario&hide=tex,php,python,shell,jupyter%20notebook&theme=vue-dark&langs_count=10&layout=compact" />
 </p>
 
 
