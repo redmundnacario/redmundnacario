@@ -1,9 +1,15 @@
 ### Well hello there! 👋
 
-- 🔭 I’m currently working on Teradata
-- 🌱 I’m currently learning React, and RoR
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/redmund-nacario/)
-- 🚀 Active Repo:[demos](https://redmundnacario.github.io/batch5-activities/)
+- 🔭  I’m currently working on Teradata
+- 🌱  I’m currently learning React, and RoR
+- 📫  How to reach me: [linkedin](https://www.linkedin.com/in/redmund-nacario/)
+- 🚀  Active Repo:[demos](https://redmundnacario.github.io/batch5-activities/)
+
+<p align="center">
+<img width="49%" heigth="200px" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=redmundnacario&show_icons=true&theme=vue" />
+<img width="49%" heigth="200px" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redmundnacario&hide=tex,php,python,shell,jupyter%20notebook&theme=vue&langs_count=10&layout=compact" />
+</p>
+
 
 <!--
 **redmundnacario/redmundnacario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
