@@ -1,8 +1,9 @@
 ### Well hello there! 👋
 
-- 🔭  I’m currently working at Teradata
-- 🌱  I’m currently learning React, and RoR
-- 📫  How to reach me: [linkedin](https://www.linkedin.com/in/redmund-nacario/)
+- 🔭  I’m currently working at Accenture
+- 🌱  Stack: Javascript, React, NodeJS, MongoDB, and PostgreSQL
+- ⚡. Experimenting on: Svelte, FastAPI, and D3JS
+- 📫. How to reach me: [linkedin](https://www.linkedin.com/in/redmund-nacario/)
 - 🚀  Vanilla JS Projects: [demos](https://redmundnacario.com/)
 - ⚛ React JS Projects : [react-projects-list](https://github.com/redmundnacario/react-projects-list)
 
