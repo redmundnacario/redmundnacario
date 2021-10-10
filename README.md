@@ -5,7 +5,7 @@
 - ⚡. Experimenting on: Svelte, FastAPI, and D3JS
 - 📫. How to reach me: [linkedin](https://www.linkedin.com/in/redmund-nacario/)
 - 🚀  Vanilla JS Projects: [demos](https://redmundnacario.com/)
-- ⚛ React JS Projects : [react-projects-list](https://github.com/redmundnacario/react-projects-list)
+- ⚛ React JS and Node JS Projects : [reactjs-and-nodejs-express-project-list](https://github.com/redmundnacario/reactjs-and-nodejs-express-project-list)
 
 <p align="center">
 <img width="60%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=redmundnacario&show_icons=true&theme=vue-dark&count_private=true&line_height=32" />
