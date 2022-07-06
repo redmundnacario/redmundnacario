@@ -1,7 +1,7 @@
 ### Well hello there! 👋
 
-- 🔭  I’m currently working at Accenture
-- 🌱  Stack: Javascript, React, NodeJS, MongoDB, and PostgreSQL
+- 🔭  I’m a Software Engineer at DTN
+- 🌱  Stack: Javascript, Typescript, ReactJS, NextJS, NodeJS, ExpressJS, NestJS, MongoDB, and PostgreSQL
 - ⚡. Experimenting on: Svelte, FastAPI, and D3JS
 - 📫. How to reach me: [linkedin](https://www.linkedin.com/in/redmund-nacario/)
 - 🚀  Vanilla JS Projects: [demos](https://redmundnacario.com/)
